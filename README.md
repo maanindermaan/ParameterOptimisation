@@ -1,6 +1,6 @@
 # Assignment - Parameter Optimization SVM
-# Name: Manan Mehra
-# Roll No. - 102153032
+# Name: Maninder Maan
+# Roll No. - 102153010
 
 # Table
 
